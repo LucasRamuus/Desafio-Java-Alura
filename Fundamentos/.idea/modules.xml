@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Classes/Classes.iml" filepath="$PROJECT_DIR$/Classes/Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Condicionais e Estrutura de Repeticao/Condicionais e Estrutura de Repeticao.iml" filepath="$PROJECT_DIR$/Condicionais e Estrutura de Repeticao/Condicionais e Estrutura de Repeticao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conversao_De_Temperatura/Conversao_De_Temperatura.iml" filepath="$PROJECT_DIR$/Conversao_De_Temperatura/Conversao_De_Temperatura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentos.iml" filepath="$PROJECT_DIR$/Fundamentos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JogoDeAdivinhacao/JogoDeAdivinhacao.iml" filepath="$PROJECT_DIR$/JogoDeAdivinhacao/JogoDeAdivinhacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Variaveis/Variaveis.iml" filepath="$PROJECT_DIR$/Variaveis/Variaveis.iml" />
+    </modules>
+  </component>
+</project>

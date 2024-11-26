@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Fundamentos/Classes/Classes.iml" filepath="$PROJECT_DIR$/Fundamentos/Classes/Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentos/Condicionais e Estrutura de Repeticao/Condicionais e Estrutura de Repeticao.iml" filepath="$PROJECT_DIR$/Fundamentos/Condicionais e Estrutura de Repeticao/Condicionais e Estrutura de Repeticao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentos/Conversao_De_Temperatura/Conversao_De_Temperatura.iml" filepath="$PROJECT_DIR$/Fundamentos/Conversao_De_Temperatura/Conversao_De_Temperatura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Desafio-Java-Alura.iml" filepath="$PROJECT_DIR$/.idea/Desafio-Java-Alura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentos/Fundamentos.iml" filepath="$PROJECT_DIR$/Fundamentos/Fundamentos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentos/JogoDeAdivinhacao/JogoDeAdivinhacao.iml" filepath="$PROJECT_DIR$/Fundamentos/JogoDeAdivinhacao/JogoDeAdivinhacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentos/Variaveis/Variaveis.iml" filepath="$PROJECT_DIR$/Fundamentos/Variaveis/Variaveis.iml" />
+    </modules>
+  </component>
+</project>
